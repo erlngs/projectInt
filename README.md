@@ -23,3 +23,7 @@ Saya memakai ports yang ada di vscode dan menggunakan ports 8000 lalu di ubah ya
 Ini ketika diakses oleh teman saya
 
 ![alt text](<Gambar WhatsApp 2024-10-20 pukul 21.35.11_63b4455b.jpg>)
+
+Link PORTS :
+
+https://25db27mc-8000.asse.devtunnels.ms/
